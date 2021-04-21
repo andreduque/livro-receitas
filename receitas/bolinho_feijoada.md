@@ -1,6 +1,6 @@
-#Bolinho de Feijoada
+# Bolinho de Feijoada
 
-##Ingredientes
+## Ingredientes
 
 - 2L de água
 - 500g de feijão preto
@@ -20,7 +20,7 @@
 - Azeite
 - Farinha para empanar
 
-##Modo de preparo
+## Modo de preparo
 
 1.	Em uma panela de pressão, coloque dois litros de água, o feijão, as carnes e as folhas de louro.
 2.	Cozinhe por aproximadamente uma hora, marcando o tempo após o inicio da pressão.
